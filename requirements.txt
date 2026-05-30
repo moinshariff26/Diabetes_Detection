@@ -1,0 +1,9 @@
+# Libraries
+streamlit
+Flask
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
