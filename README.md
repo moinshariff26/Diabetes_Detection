@@ -97,3 +97,4 @@ Hosting is done using RENDER.
 
 The Diabetes Detection application leverages machine learning to provide insights into an individual's diabetes risk based on their health data. By using a Random Forest Classifier, the model can accurately predict outcomes, empowering users to make informed health decisions. This tool not only aids in early detection but also promotes awareness and proactive health management.
 
+# moinshariff26
